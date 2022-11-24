@@ -1,7 +1,5 @@
 package com.example.parcial3;
 
-package com.example.wificonfig;
-
 
 import android.util.Pair;
 
